@@ -4,9 +4,6 @@
   <img src="./logo.png" width="130px">
   <img src="./screenshot.png">
 </p>
-<p align="center">
-  Website - <a href="https://mysigmail.com">https://mysigmail.com</a> | Twitter - <a href="https://twitter.com/mysigmail">@mysigmail</a>
-</p>
 
 
 ## Purpose
