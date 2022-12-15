@@ -8,10 +8,6 @@
   Website - <a href="https://mysigmail.com">https://mysigmail.com</a> | Twitter - <a href="https://twitter.com/mysigmail">@mysigmail</a>
 </p>
 
-<p align="center" style="padding-top: 15px;">
-  <a href="https://www.producthunt.com/posts/mysigmail-2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=142330&theme=dark&period=daily" alt="MySigMail - UI email signature generator on GitHub | Product Hunt Embed" style="widht: 250px;" /></a>
-</p>
-
 
 ## Purpose
 
@@ -54,16 +50,3 @@ Run
 npm i
 npm run serve
 ```
-
-## Support project
-
-If you liked the project, I am very grateful for the help to the project.
-
-- BTC - 1di5dpLQpcryUke4e5eq1NJv4if9faLhJ
-- [PayPal](https://www.paypal.me/antonreshetov) 
-- [Become a backer on Patreon](https://www.patreon.com/antonreshetov)
-- [Become a backer on Open Collective](https://opencollective.com/mysigmail)
-- [Become a backer on Ko-fi](https://ko-fi.com/antonreshetov)
-
-## Commercialization
-If you would like to commercialize MySigMail, please contact reshetov.art@gmail.com.
